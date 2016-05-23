@@ -1,3 +1,5 @@
+# This project has been moved to [popcon-judge-go](https://github.com/cs3238-tsuzu/popcon-judge-go).
+
 ## popcon-judge
 popcon-judge is a judge server for [popcon](http://github.com/cs3238-tsuzu/popcon.git).
 
